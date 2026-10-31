@@ -23,7 +23,7 @@ I'm a student who loves figuring out how things work, and then building them. I'
 
 ## 🚀 Featured Projects
 
-### 🤟 [Bridge Lite]
+### 🤟 [Bridge Lite](https://github.com/malaikabatooll/Bridge-Lite-Two-Way-Sign-Language-Communication-System)
 
 A two-way sign language communication system built with Python and computer vision.
 
