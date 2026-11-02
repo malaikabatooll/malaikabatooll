@@ -1,17 +1,17 @@
-##  Hi, I'm Malaika! 👋
+##  Hi, I'm Malaika! 
 
 **Student | AI & Programming Enthusiast**
 
 I'm a student who loves figuring out how things work, and then building them. I'm especially interested in how AI, programming and engineering can come together to create projects that help people in the real world.
 
-## 🌱 About Me
+##  About Me
 
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 🧠 Curious about Computer Vision and practical AI applications
 - 🔌 Exploring Robotics, Embedded Systems and IoT
 - 🎨 I paint and write poetry
 
-## 🛠️ Technologies I Use
+##  Technologies I Use
 
 **Programming:** `Python` `C/C++` `HTML` `CSS` `JavaScript`
 
@@ -21,9 +21,9 @@ I'm a student who loves figuring out how things work, and then building them. I'
 
 **Tools:** `Git` `GitHub` `VS Code`
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤟 [Bridge Lite](https://github.com/malaikabatooll/Bridge-Lite-Two-Way-Sign-Language-Communication-System)
+###  [Bridge Lite](https://github.com/malaikabatooll/Bridge-Lite-Two-Way-Sign-Language-Communication-System)
 
 A two-way sign language communication system built with Python and computer vision.
 
@@ -32,14 +32,14 @@ A two-way sign language communication system built with Python and computer visi
 - **How I built it:** I designed the system using tools, recorded the data, and trained and tested the model.
 - **Next:** testing with real users from the deaf community.
 
-### 🔥 [GAS-GUARD](https://github.com/malaikabatooll/GAS-GUARD-Automatic-Gas-Leakage-Detection-And-Emergency-Safety-System)
+###  [GAS-GUARD](https://github.com/malaikabatooll/GAS-GUARD-Automatic-Gas-Leakage-Detection-And-Emergency-Safety-System)
 
 An automatic gas-leak detection and emergency safety prototype using ESP32 and ESP8266 boards, an MQ-5 gas sensor, a servo motor, a relay, an exhaust fan and wireless communication between the boards.
 
 - **Problem:** gas leaks are hard to detect by sight, and even the added smell is easy to miss and can cause serious damage before anyone notices. 
 - **What I built:** a sensor-triggered alarm that shuts the gas valve and switches on ventilation.
 
-## ✨ Beyond the Code
+##  Beyond the Code
 
 I'm driven by curiosity. I want to know how things work, so I end up building them: a sign language recognizer, a gas-leak alarm, and whatever I get stuck on next.
 
